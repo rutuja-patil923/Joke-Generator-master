@@ -1,0 +1,15 @@
+{
+  "name": "joke-generator-master",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "npm": "^6.14.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
